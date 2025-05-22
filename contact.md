@@ -10,7 +10,6 @@ I'm always interested in discussing cloud architecture, AI implementations, and 
 
 ## Get In Touch
 
-- **Email:** [blazej.siejek@gmail.com](mailto:blazej.siejek@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/blazejsiejek/)
 - **GitHub:** [View my projects](https://github.com/mrsiejas)
 

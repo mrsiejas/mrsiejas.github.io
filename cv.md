@@ -75,6 +75,6 @@ permalink: /cv/
 
 ## Contact
 
-Feel free to reach out at [blazej.siejek@gmail.com](mailto:blazej.siejek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/blazejsiejek/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/blazejsiejek/) to discuss potential opportunities.
 
 ---

@@ -7,7 +7,7 @@ title: Welcome
   <img src="/assets/images/profile.jpg" alt="Blazej Siejek" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-# Hello, I'm Blazej Siejek
+# Hello, I'm Blazej
 
 Welcome to my corner of the web where **Cloud meets AI**. I'm passionate about leveraging cloud technologies and artificial intelligence to solve complex problems and drive innovation.
 
