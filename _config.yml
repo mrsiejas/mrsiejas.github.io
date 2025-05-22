@@ -4,11 +4,8 @@ description: "Cloud meets AI"
 url: "https://mrsiejas.github.io"
 baseurl: ""
 
-# Development server settings
-port: 4001
-
 # Theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 
 # Author details for CV
 author:
@@ -29,10 +26,6 @@ navigation_header:
 
 # Footer navigation (empty to remove the footer links)
 navigation_footer:
-  - title: Contact
-    url: /contact/
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/blazejsiejek/
 
 # Collections for organizing content
 collections:
@@ -43,6 +36,7 @@ collections:
 
 # Plugins (minimal set)
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
 
