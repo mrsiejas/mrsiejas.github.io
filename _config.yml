@@ -10,7 +10,6 @@ remote_theme: daviddarnes/alembic@main
 # Author details for CV
 author:
   name: "Blazej Siejek"
-  email: "blazej.siejek@gmail.com"
   linkedin: "https://www.linkedin.com/in/blazejsiejek/"
   github: "mrsiejas"
 
@@ -24,6 +23,9 @@ navigation_header:
     url: /blog/
   - title: Contact
     url: /contact/
+
+# Footer navigation (empty to remove the footer links)
+navigation_footer:
 
 # Collections for organizing content
 collections:
