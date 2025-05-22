@@ -32,16 +32,13 @@ collections:
   education:
     output: false
 
-# Plugins
+# Plugins (GitHub Pages compatible only)
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
-# Blog pagination (using paginate-v2 which works better with GitHub Pages)
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/blog/page:num/'
-  sort_reverse: true
+# Blog pagination (simple version for GitHub Pages)
+paginate: 5
+paginate_path: "/blog/page:num/"
