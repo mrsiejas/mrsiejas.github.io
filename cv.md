@@ -9,51 +9,69 @@ permalink: /cv/
 
 ## Professional Experience
 
-### [Your Current Role] - [Company Name]
-*[Date Range]*
+### European Commission
+*Current*
 
-- Key achievement in cloud architecture or AI implementation
-- Another significant contribution
-- Quantified result (e.g., "Reduced infrastructure costs by 30%")
+- Leading cloud architecture and AI implementation initiatives
+- Driving innovation in cloud technologies and artificial intelligence
+- Managing complex cloud infrastructure and AI solutions
 
-### [Previous Role] - [Previous Company]
-*[Date Range]*
+### Previous Experience
+*Various Roles*
 
-- Major project or responsibility
-- Technology or framework you worked with
-- Impact you made
+- Extensive experience in cloud architecture and implementation
+- Strong background in AI and machine learning integration
+- Proven track record in technology strategy and implementation
 
 ## Technical Skills
 
-**Cloud Platforms:** AWS, Azure, Google Cloud Platform
+**Cloud Platforms:** 
+- AWS (Certified Solutions Architect Professional, DevOps Engineer Professional)
+- Google Cloud (Professional Cloud Architect)
+- Azure
 
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenAI APIs
+**DevOps & Infrastructure:**
+- Kubernetes (Certified Kubernetes Administrator - CKA, Certified Kubernetes Application Developer - CKAD)
+- Docker
+- Infrastructure as Code
+- CI/CD
 
-**Programming:** Python, JavaScript, [other languages]
-
-**DevOps:** Docker, Kubernetes, CI/CD, Infrastructure as Code
-
-**Databases:** SQL, NoSQL, Vector Databases
-
-## Education
-
-### [Your Degree] - [University]
-*[Date Range]*
-
-- Relevant coursework or specialization
-- Notable projects or achievements
+**Programming & Development:**
+- Python
+- JavaScript
+- Cloud-native development
 
 ## Certifications
 
-- [Cloud certifications if any]
-- [AI/ML certifications if any]
-- [Other relevant certifications]
+### Cloud & Infrastructure
+- Certified Kubernetes Application Developer (CKAD) - The Linux Foundation (2023-2026)
+- Certified Kubernetes Administrator (CKA) - The Linux Foundation (2020-2023)
+- AWS Certified DevOps Engineer - Professional (2018-2021)
+- AWS Certified SysOps Administrator - Associate (2017-2021)
+- AWS Certified Developer – Associate (2017-2021)
+- Google Cloud Certified Professional Cloud Architect (2019-2021)
+- AWS Certified Solutions Architect - Professional (2017-2020)
+- AWS Certified Solutions Architect - Associate (2017-2020)
+
+## Languages
+
+- Polish (Native)
+- English (Native/Bilingual)
+- German (Limited working proficiency)
+
+## Education
+
+### Edinburgh Napier University
+*Degree in Computer Science*
+
+- Focus on cloud computing and artificial intelligence
+- Relevant coursework in distributed systems and machine learning
 
 ## Projects & Interests
 
-- **AI Integration Projects:** Brief description of AI chatbots or automation you've built
-- **Cloud Migrations:** Experience with cloud transformation projects
-- **Open Source:** Contributions to relevant projects
+- **Cloud Architecture:** Designing and implementing scalable cloud solutions
+- **AI Integration:** Building intelligent systems and automation
+- **Technology Strategy:** Bridging the gap between emerging tech and business value
 
 ## Contact
 
