@@ -26,6 +26,10 @@ navigation_header:
 
 # Footer navigation (empty to remove the footer links)
 navigation_footer:
+  - title: Contact
+    url: /contact/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/blazejsiejek/
 
 # Collections for organizing content
 collections:
