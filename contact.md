@@ -26,6 +26,10 @@ Chat with my AI assistant to learn more about my background, experience, and pro
   <gradio-app src="https://siejas-career-conversation.hf.space"></gradio-app>
 </div>
 
+<noscript>
+  <p>JavaScript is required to use the AI assistant. You can also <a href="https://siejas-career-conversation.hf.space" target="_blank">access it directly here</a>.</p>
+</noscript>
+
 ## Collaboration
 
 Interested in collaborating on:
